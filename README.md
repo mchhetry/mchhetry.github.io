@@ -1,13 +1,20 @@
-# mchhetry.github.io
+# Business Analysis Portfolio
 
-# 🌟 My Portfolio
-Welcome to my personal portfolio! This site showcases my data science and analytics projects.
+Welcome to my business analysis portfolio! Here, I showcase my skills, projects, and experience.
 
-## 📂 Featured Projects
-- 📊 **Jibu Inc Analysis** – Customer segmentation & revenue prediction using R  
-- 💎 **Diamond Price Prediction** – ML model using XGBoost  
-- 🚀 **AI-Powered Course Generator** – Built with Python, Streamlit, and CrewAI  
+## About Me
+[Learn more about me](about-me.md)
 
-## 📬 Contact Me
-📧 Email: yourname@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourname) | 🌎 [Portfolio](https://yourusername.github.io)  
+## Projects
+Here are some of the projects I've worked on:
+- [Project 1: Requirements Gathering for a Retail App](projects/project-1.md)
+- [Project 2: Process Optimization for a Logistics Company](projects/project-2.md)
+
+## Tools and Techniques
+[View the tools and techniques I use](tools-and-techniques.md)
+
+## Resume
+[Download my resume here](resume/your-resume.pdf)
+
+## Contact Me
+[Get in touch](contact.md)
